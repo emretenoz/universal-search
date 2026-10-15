@@ -1,0 +1,16 @@
+**/bin/
+**/obj/
+**/TestResults/
+publish/
+dist/
+.vs/
+*.user
+*.db*
+*.log
+
+.dev-data/
+.tools/
+.env*
+*.pfx
+*.key
+validation/
